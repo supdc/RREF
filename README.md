@@ -1,3 +1,5 @@
-# RREF
-reduced row echelon form calculator and finding solution 
-Using Row Operation Method to find rre 
+# RREF <br>
+reduced row echelon form calculator and finding solution  <br>
+Using Row Operation Method <br>
+How to use:  <br>
+1
